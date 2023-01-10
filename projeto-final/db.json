@@ -8,5 +8,19 @@
       "id": 1
     }
   ],
-  "posts": []
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "Casa",
+      "description": "Teste da api",
+      "img": "https://www.plantapronta.com.br/projetos/161/01.jpg",
+      "value": 100,
+      "adress": {
+        "city": "Jaú",
+        "street": "Teste",
+        "number": 2
+      }
+    }
+  ]
 }
