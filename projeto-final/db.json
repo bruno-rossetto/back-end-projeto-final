@@ -6,6 +6,13 @@
       "name": "Bruno",
       "userType": "admin",
       "id": 1
+    },
+    {
+      "email": "bruno2@gmail.com",
+      "password": "$2a$10$2M5TUiIjPDPr7cb27ePibO9bhBgQ5k0GRzqyxZRepvSzc/Bzzh7x2",
+      "name": "Bruno2",
+      "userType": "user",
+      "id": 2
     }
   ],
   "posts": [
