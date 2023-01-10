@@ -77,6 +77,10 @@
       "city": "Jaú",
       "street": "Teste",
       "number": 2
+    },
+    "checker": {
+      "checked": false,
+      "observation": ""
     }
   }
 ]
